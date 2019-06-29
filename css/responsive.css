@@ -1,0 +1,112 @@
+/* Laptop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {}
+
+
+/* LG :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+    .slider-height {
+        min-height: 650px;
+    }
+
+    .slider-content h2 {
+        font-size: 56px;
+    }
+
+    .case-content h3 {
+        font-size: 18px;
+    }
+
+    .single-testimonial p {
+        font-size: 20px;
+    }
+
+    .client-info h5 {
+        font-size: 14px;
+    }
+
+    .consultation-form {
+        padding: 40px;
+    }
+
+    .faq-thumb img {
+        margin-left: 0;
+        width: 100%;
+    }
+}
+
+
+/* MD :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .single-cta {
+        margin-left: 40px;
+    }
+
+    .menu-area {
+        margin-bottom: -48px;
+    }
+
+    .main-menu ul li {
+        margin-right: 25px;
+    }
+
+    .main-menu ul li a {
+        font-size: 12px;
+        padding: 18px 0px;
+    }
+
+    .slider-content h2 {
+        font-size: 50px;
+    }
+
+    .slider-content p {
+        font-size: 14px;
+    }
+
+    .section-title h2 {
+        font-size: 36px;
+    }
+
+    .section-title h4 {
+        font-size: 22px;
+    }
+
+    .features-box h4 {
+        font-size: 18px;
+    }
+
+    .features-box p {
+        line-height: 24px;
+    }
+
+    .video-area {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+
+    .video-wrapper h2 {
+        font-size: 28px;
+
+    }
+.slick-slide img {
+    width: 100%;
+}
+.slick-slide img {
+    width: inherit;
+}
+.faq-thumb img {
+     margin-left: 0px;
+     margin-bottom: 20px; 
+}
+
+
+
+}
+
+/* SM :576px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+}
+
+/* XS :320px. */
+@media (max-width: 767px) {}
